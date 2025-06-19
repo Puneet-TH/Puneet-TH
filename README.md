@@ -13,6 +13,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Puneet-TH&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-![](https://komarev.com/ghpvc/?username=Puneet-TH&color=black)
+![](https://komarev.com/ghpvc/?username=Puneet-TH&color=Black)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
