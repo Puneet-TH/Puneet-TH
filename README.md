@@ -1,6 +1,5 @@
 # 💫 About Me:
-👋 Hello there! I'm Puneet Thapliyal<br><br>🎓I'm a Computer Science Engineering student with a strong interest in building impactful software solutions and solving real-world problems .<br><br>💡 I’ am currently learning :<br><br>💻 Web Development<br><br>🤖 Machine Learning & AI<br><br><br>
-
+👋 Hello there! I'm Puneet Thapliyal<br>🎓I'm a Computer Science Engineering student with a strong interest in building impactful software solutions and solving real-world problems .<br> I’ am currently learning :<br> Web Development<br> <br>Machine Learning & AI<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/puneet-thapliyal-b0293624a) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/29665224) 
