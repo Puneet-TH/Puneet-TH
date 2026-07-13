@@ -20,12 +20,12 @@
 ┌──────────────────────────────────────────────────────────────────┐
 │  > whoami                                                         │
 │  Puneet Thapliyal — Computer Science graduate (2026)              │
-│  Chandigarh University | CGPA 7.5/10                              │
-│                                                                     │
+│                                                                   │
+│                                                                   │
 │  > cat mission.txt                                                │
 │  Full software development lifecycle experience — design, code,   │
-│  test, deploy, support. Contributed to a live app serving          │
-│  10,000+ daily active users. Built 3 production-ready projects     │
+│  test, deploy, support. Contributed to a live app serving         │
+│  10,000+ daily active users. Built 3 production-ready projects    │
 │  independently. Flexible to work from anywhere across India.      │
 └──────────────────────────────────────────────────────────────────┘
 ```
