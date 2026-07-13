@@ -34,7 +34,9 @@ I work across the full development lifecycle — design, implementation, testing
 
 **Testing & Tools**
 
-<img src="https://skillicons.dev/icons?i=selenium,playwright,postman,git,github,docker,vscode" />
+<img src="https://skillicons.dev/icons?i=selenium,postman,git,github,docker,vscode" />
+<img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" height="48" />
+<img src="https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white" height="48" />
 
 <br/>
 
