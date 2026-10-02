@@ -30,7 +30,7 @@ I work across the full development lifecycle — design, implementation, testing
 
 **Databases & Cloud**
 
-<img src="https://skillicons.dev/icons?i=mongodb,firebase" />
+<img src="https://skillicons.dev/icons?i=mongodb,firebase,postgresql,sqllite,sql" />
 
 **Testing & Tools**
 
