@@ -26,7 +26,7 @@ I work across the full development lifecycle — design, implementation, testing
 
 **Backend**
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,flask" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,flask,django" />
 
 **Databases & Cloud**
 
